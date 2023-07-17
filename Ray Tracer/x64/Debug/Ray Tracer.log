@@ -1,0 +1,26 @@
+﻿  Ray Tracer.cpp
+C:\Users\eleme\cs434\Lab2\Ray Tracer\lodepng.cpp(687,54): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
+C:\Users\eleme\cs434\Lab2\Ray Tracer\lodepng.cpp(705,35): warning C4267: '=': conversion from 'size_t' to 'unsigned short', possible loss of data
+C:\Users\eleme\cs434\Lab2\Ray Tracer\lodepng.cpp(706,39): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
+C:\Users\eleme\cs434\Lab2\Ray Tracer\lodepng.cpp(729,37): warning C4267: '=': conversion from 'size_t' to 'unsigned short', possible loss of data
+C:\Users\eleme\cs434\Lab2\Ray Tracer\lodepng.cpp(746,38): warning C4267: '=': conversion from 'size_t' to 'unsigned short', possible loss of data
+C:\Users\eleme\cs434\Lab2\Ray Tracer\lodepng.cpp(3719,78): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\eleme\cs434\Lab2\Ray Tracer\lodepng.cpp(4722,33): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\eleme\cs434\Lab2\Ray Tracer\lodepng.cpp(4944,60): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\eleme\cs434\Lab2\Ray Tracer\lodepng.cpp(4949,83): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\eleme\cs434\Lab2\Ray Tracer\lodepng.cpp(4950,94): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\eleme\cs434\Lab2\Ray Tracer\lodepng.cpp(4951,83): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\eleme\cs434\Lab2\Ray Tracer\lodepng.cpp(4952,94): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\eleme\cs434\Lab2\Ray Tracer\lodepng.cpp(4953,83): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\eleme\cs434\Lab2\Ray Tracer\lodepng.cpp(4954,94): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\eleme\cs434\Lab2\Ray Tracer\lodepng.cpp(4955,78): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\eleme\cs434\Lab2\Ray Tracer\lodepng.cpp(5146,3): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\eleme\cs434\Lab2\Ray Tracer\lodepng.cpp(5170,7): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\eleme\cs434\Lab2\Ray Tracer\lodepng.cpp(5204,62): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\eleme\cs434\Lab2\Ray Tracer\lodepng.cpp(5221,3): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\eleme\cs434\Lab2\Ray Tracer\lodepng.cpp(5243,57): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\eleme\cs434\Lab2\Ray Tracer\lodepng.cpp(5274,57): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\eleme\cs434\Lab2\Ray Tracer\lodepng.cpp(5387,57): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\eleme\cs434\Lab2\Ray Tracer\lodepng.cpp(5465,33): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
+C:\Users\eleme\cs434\Lab2\Ray Tracer\Ray Tracer.cpp(44,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Ray Tracer.vcxproj -> C:\Users\eleme\cs434\Lab2\Ray Tracer\x64\Debug\Ray Tracer.exe
