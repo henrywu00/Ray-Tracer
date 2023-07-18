@@ -1,7 +1,7 @@
 
 # Ray Tracer
 
-
+![alt text](https://github.com/henrywu00/Ray-Tracer/blob/main/test-.png)
 
 Image output is test-.png
 
